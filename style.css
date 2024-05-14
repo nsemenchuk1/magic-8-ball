@@ -1,0 +1,38 @@
+html {
+  background: black;
+}
+
+body {
+  margin: auto;
+  width: 530px;
+  background: lightgray;
+  padding: 0px 40px 10px 40px;
+  border-radius: 30px;
+}
+
+img:hover {
+  cursor: pointer;
+}
+
+#img-para {
+  text-align: center;
+}
+
+h1 {
+  padding-top: 20px;
+  font-weight: bolder;
+}
+
+input {
+  width: 500px;
+  color: olivedrab;
+}
+
+.question-answer {
+  font-weight: bolder;
+}
+
+#output {
+  color: olivedrab;
+  font-weight: bolder;
+}
